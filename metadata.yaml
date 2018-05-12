@@ -1,0 +1,29 @@
+_repo: Mistress-Margery_23187
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holt, Emily Sarah
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '9787'
+    url: http://www.gutenberg.org/2009/agents/9787
+description: ''
+gutenberg_issued: '2007-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Henry IV, 1399-1413 -- Juvenile fiction'
+- !lcsh 'Lollards -- Juvenile fiction'
+- !lcsh 'Religion -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Mistress Margery
+url: http://www.gutenberg.org/ebooks/23187
